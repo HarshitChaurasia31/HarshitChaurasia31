@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Your+Name;Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
 </a>
 
-<h1>Your Name</h1>
+<h1>Harshit Chaurasia</h1>
 <h3>Full Stack Developer • AI Enthusiast • Backend Engineer</h3>
 
 <p>
