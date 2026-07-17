@@ -1,23 +1,23 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HarshitChaurasia31">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Your+Name;Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
 </a>
 
 <h1>Harshit Chaurasia</h1>
-<h3>Full Stack Developer • AI Enthusiast • Backend Engineer</h3>
+<h3>Full Stack Developer • AI Enthusiast • Backend Developer</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=58A6FF" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=HarshitChaurasia31&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/HarshitChaurasia31?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/HarshitChaurasia31?label=Stars&style=flat-square&color=58A6FF" alt="Stars" />
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshit-chaurasia-radaxo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:harshitchaurasia153@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -144,7 +144,7 @@ A full-stack SaaS application integrating LLM-based automation with a modern, an
 
 `React` `Node.js` `MongoDB` `OpenAI API` `Docker`
 
-<a href="https://github.com/YOUR_USERNAME/project-one"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/HarshitChaurasia31/project-one"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://your-live-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
