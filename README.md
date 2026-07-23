@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://github.com/HarshitChaurasia31">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I%27m+Your+Name;Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I%27m+Harshit+Chaurasia;Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
 </a>
 
 <h1>Harshit Chaurasia</h1>
