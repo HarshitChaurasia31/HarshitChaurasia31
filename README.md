@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://github.com/HarshitChaurasia31">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Your+Name;Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I%27m+Your+Name;Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
 </a>
 
 <h1>Harshit Chaurasia</h1>
@@ -63,22 +63,18 @@ I care deeply about writing clean code, designing thoughtful systems, and buildi
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
 
 **Database**
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
 
 **Programming Languages**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 
 **DevOps**
 
@@ -90,9 +86,8 @@ I care deeply about writing clean code, designing thoughtful systems, and buildi
 **Cloud**
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
 
 **Tools**
 
@@ -100,14 +95,6 @@ I care deeply about writing clean code, designing thoughtful systems, and buildi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-**AI**
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 </div>
 
@@ -137,27 +124,25 @@ I care deeply about writing clean code, designing thoughtful systems, and buildi
 <tr>
 <td width="50%">
 
-### 🔹 Project One
-**AI-Powered SaaS Platform**
+### 🔹 Ledger Banking API
 
-A full-stack SaaS application integrating LLM-based automation with a modern, animated UI and scalable backend architecture.
+A secure backend banking system built with Node.js, Express, and MongoDB. It supports user authentication, account management, balance tracking, and atomic money transfers using MongoDB transactions with idempotency to prevent duplicate payments.
 
-`React` `Node.js` `MongoDB` `OpenAI API` `Docker`
+`Node.js` `Express.js` `MongoDB` `JWT` `Mongoose` `Docker`
 
-<a href="https://github.com/HarshitChaurasia31/project-one"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+<a href="https://github.com/HarshitChaurasia31/Bank-Ledger"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://your-live-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-### 🔹 Project Two
-**Real-Time Collaboration Tool**
+### 🔹 MacBook Landing Page
 
-A real-time collaborative workspace with WebSocket-based sync, JWT auth, and a responsive, animated dashboard.
+A premium Apple-inspired landing page featuring smooth scroll animations, interactive 3D elements, and a fully responsive design focused on delivering a modern, immersive user experience.
 
-`Next.js` `Express` `PostgreSQL` `Socket.io` `Tailwind CSS`
-
-<a href="https://github.com/YOUR_USERNAME/project-two"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+`React` `GSAP` `Three.js` `Tailwind CSS` `Vite`
+<a href="https://github.com/HarshitChaurasia31/Macbook_Landing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://your-live-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
@@ -165,14 +150,12 @@ A real-time collaborative workspace with WebSocket-based sync, JWT auth, and a r
 <tr>
 <td width="50%">
 
-### 🔹 Project Three
-**Developer Analytics Dashboard**
+### 🔹 AI Inquest
 
-A data visualization dashboard for tracking developer productivity, built with interactive charts and smooth animations.
+An AI-powered research assistant that automates web research, summarizes information using LLMs, and generates structured PDF reports through an intuitive interface with a scalable backend architecture.
 
-`React` `D3.js` `Node.js` `Redis` `Docker`
-
-<a href="https://github.com/YOUR_USERNAME/project-three"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+`React` `FastAPI` `Python` `LangChain` `Gemini API` `Docker`
+<a href="https://github.com/HarshitChaurasia31/AI-Research-Agent"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://your-live-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
@@ -200,12 +183,12 @@ A headless CMS built for developers to manage portfolio content with a clean adm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshitChaurasia31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitChaurasia31&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitChaurasia31&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 
 </div>
 
@@ -214,7 +197,7 @@ A headless CMS built for developers to manage portfolio content with a clean adm
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitChaurasia31&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </div>
 
 ---
@@ -223,15 +206,11 @@ A headless CMS built for developers to manage portfolio content with a clean adm
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harshit-chaurasia-radaxo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://discord.com/users/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://hashnode.com/@YOUR_HASHNODE"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:harshitchaurasia153@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/harshit-chaurasia/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
 
 </div>
 
