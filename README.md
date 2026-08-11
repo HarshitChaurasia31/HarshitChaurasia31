@@ -162,14 +162,14 @@ An AI-powered research assistant that automates web research, summarizes informa
 <td width="50%">
 
 ### 🔹 Project Four
-**Portfolio CMS Engine**
+**Aurora**
 
-A headless CMS built for developers to manage portfolio content with a clean admin panel and GraphQL API.
+A Local minimal music player built for aesthetic comes with in built moods as well as custom moods.
 
-`Next.js` `GraphQL` `MongoDB` `Node.js`
+`React` `TypeScript` `Tauri` `SQLite` `Rust`
 
-<a href="https://github.com/YOUR_USERNAME/project-four"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://your-live-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/HarshitChaurasia31/Aurora"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/HarshitChaurasia31/Aurora/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Download-000000?style=flat-square&logo=icloud&logoColor=white" /></a>
 
 </td>
 </tr>
