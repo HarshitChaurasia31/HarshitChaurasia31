@@ -161,8 +161,7 @@ An AI-powered research assistant that automates web research, summarizes informa
 </td>
 <td width="50%">
 
-### 🔹 Project Four
-**Aurora**
+### 🔹 Aurora
 
 A Local minimal music player built for aesthetic comes with in built moods as well as custom moods.
 
